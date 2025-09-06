@@ -232,23 +232,7 @@
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&h=400&q=80" alt="Projects Showcase" />
 </div>
 
-### 🌟 Featured Repositories
 
-- 🚀 **[Smart Campus App](https://github.com/bvcodeverse/smart-campus)** - Revolutionary campus management system
-- 🤖 **[AI Study Buddy](https://github.com/bvcodeverse/ai-study-buddy)** - AI-powered learning companion
-- 🌐 **[EcoTracker](https://github.com/bvcodeverse/ecotracker)** - Environmental impact tracking application
-- 📱 **[College Events Hub](https://github.com/bvcodeverse/events-hub)** - Centralized event management platform
-
----
-
-## 📅 Upcoming Events
-
-- 🔥 **Hackathon 2025** - March 15-17, 2025
-- 💻 **React Workshop Series** - Every Saturday
-- 🤖 **AI/ML Bootcamp** - Starting April 2025
-- 🌟 **Annual Tech Fest** - May 2025
-
----
 
 ## 🤝 Join Our Community
 
@@ -261,23 +245,8 @@
 
 </div>
 
-### 🚪 How to Join
 
-1. 📧 **Email us** at [hello@bvcodeverse.com](mailto:hello@bvcodeverse.com)
-2. 💬 **Join our Discord** for instant community access
-3. 📋 **Fill out our membership form** [here](https://forms.bvcodeverse.com)
-4. 🎯 **Attend our orientation** (held monthly)
 
----
-
-## 📞 Contact Us
-
-- 📧 **Email**: hello@bvcodeverse.com
-- 🏢 **Office**: Computer Science Department, Building A, Room 204
-- ⏰ **Office Hours**: Monday-Friday, 2:00 PM - 6:00 PM
-- 📱 **Phone**: +1 (555) 123-BVCV
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+BVCodeVerse!;Let's+code+the+future+together!;Join+our+amazing+community!" alt="Footer Typing" />
@@ -290,5 +259,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the BVCodeVerse Team</sub>
+  <sub style="color: #45B7D1">Built with ❤️ by the <span style="color: #FF6B6B">BVCodeVerse</span> Team</sub>
 </div>
